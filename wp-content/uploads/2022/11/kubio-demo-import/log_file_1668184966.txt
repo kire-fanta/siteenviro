@@ -1,0 +1,587 @@
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Prepare remote import
+
+
+---Downloaded files---
+The import files for: https://s3.us-west-2.amazonaws.com/static-assets.kubiobuilder.com/demo-sites/production/writer-free/content.kds were successfully downloaded!
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: init
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: prepare_templates
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: prepare_template_parts
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: prepare_menus
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: prepare_pages
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Imported "Primary menu" (nav_menu)
+
+
+------
+[INFO] Imported "img3" (Fichier média)
+
+
+------
+[INFO] Imported "hero1" (Fichier média)
+
+
+------
+[INFO] Imported "cover1" (Fichier média)
+
+
+------
+[INFO] Imported "cover2" (Fichier média)
+
+
+------
+[INFO] Imported "cover3" (Fichier média)
+
+
+------
+[INFO] Imported "cover4" (Fichier média)
+
+
+------
+[INFO] Imported "cover5" (Fichier média)
+
+
+------
+[INFO] Imported "cover6" (Fichier média)
+
+
+------
+[INFO] Imported "cover7" (Fichier média)
+
+
+------
+[INFO] Imported "cover8" (Fichier média)
+
+
+------
+[INFO] Imported "cover5-1" (Fichier média)
+
+
+------
+[INFO] Imported "bg" (Fichier média)
+
+
+------
+[INFO] Imported "logo1" (Fichier média)
+
+
+------
+[INFO] Imported "logo2" (Fichier média)
+
+
+------
+[INFO] Imported "logo3" (Fichier média)
+
+
+------
+[INFO] Imported "logo4" (Fichier média)
+
+
+------
+[INFO] Imported "logo5" (Fichier média)
+
+
+------
+[INFO] Imported "logo6" (Fichier média)
+
+
+------
+[INFO] Imported "blog1" (Fichier média)
+
+
+------
+[INFO] New AJAX call!
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Imported "kubio-featured-image" (Fichier média)
+
+
+------
+[INFO] Imported "Sample Page" (Page)
+
+
+------
+[INFO] Imported "Privacy Policy" (Page)
+
+
+------
+[WARNING] Failed to import "": Invalid post type 
+
+
+------
+[INFO] Imported "Front Page" (Page)
+
+
+------
+[INFO] Imported "Blog" (Page)
+
+
+------
+[INFO] Imported "Home" (Élément de menu de navigation)
+
+
+------
+[INFO] Imported "" (Élément de menu de navigation)
+
+
+------
+[INFO] Imported "About" (Élément de menu de navigation)
+
+
+------
+[INFO] Imported "" (Élément de menu de navigation)
+
+
+------
+[INFO] Imported "blog2" (Fichier média)
+
+
+------
+[INFO] Imported "blog3-1" (Fichier média)
+
+
+------
+[INFO] Imported "alexey-turenkov-unsplash" (Fichier média)
+
+
+------
+[INFO] Imported "europeana-unsplash" (Fichier média)
+
+
+------
+[INFO] Imported "jon-tyson-unsplash" (Fichier média)
+
+
+------
+[INFO] Imported "mcgill-libraryunsplash" (Fichier média)
+
+
+------
+[INFO] Imported "img1" (Fichier média)
+
+
+------
+[INFO] Imported "handwriting" (Fichier média)
+
+
+------
+[INFO] Imported "book1" (Fichier média)
+
+
+------
+[INFO] Imported "bg2" (Fichier média)
+
+
+------
+[INFO] Imported "darius-unsplash" (Fichier média)
+
+
+------
+[INFO] Imported "404" (Modèle)
+
+
+------
+[INFO] Imported "Archive Product" (Modèle)
+
+
+------
+[INFO] Imported "Front Page" (Modèle)
+
+
+------
+[INFO] Imported "Full Width" (Modèle)
+
+
+------
+[INFO] Imported "Home" (Modèle)
+
+
+------
+[INFO] Imported "Index" (Modèle)
+
+
+------
+[INFO] Imported "Page" (Modèle)
+
+
+------
+[INFO] Imported "Search" (Modèle)
+
+
+------
+[INFO] Imported "Single Product" (Modèle)
+
+
+------
+[INFO] Imported "Single Post" (Modèle)
+
+
+------
+[INFO] Imported "Footer" (Élément de modèle)
+
+
+------
+[INFO] Imported "Front Header" (Élément de modèle)
+
+
+------
+[INFO] Imported "Page With Left Sidebar" (Modèle)
+
+
+------
+[INFO] Imported "Page With Right Sidebar" (Modèle)
+
+
+------
+[INFO] Imported "Custom Styles" (Styles globaux)
+
+
+------
+[INFO] Imported "Contact" (Page)
+
+
+------
+[INFO] Imported "About me" (Page)
+
+
+------
+[INFO] Imported "Lorem ipsum" (Article)
+
+
+------
+[INFO] Imported "Lorem Ipsum" (Article)
+
+
+------
+[INFO] Imported "Lorem Ipsum" (Article)
+
+
+------
+[INFO] Imported "Header" (Élément de modèle)
+
+
+------
+[INFO] Imported "Sidebar" (Élément de modèle)
+
+
+------
+[INFO] Imported "Page Sidebar" (Élément de modèle)
+
+
+------
+[INFO] Imported "Contact form 1" (Formulaire de contact)
+
+
+------
+[INFO] Posts post processing
+
+
+------
+[WARNING] Could not find the author for "img3.png" (post #577)
+
+
+------
+[WARNING] Could not find the author for "hero1.jpg" (post #578)
+
+
+------
+[WARNING] Could not find the author for "cover1.jpg" (post #579)
+
+
+------
+[WARNING] Could not find the author for "cover2.jpg" (post #580)
+
+
+------
+[WARNING] Could not find the author for "cover3.jpg" (post #581)
+
+
+------
+[WARNING] Could not find the author for "cover4.jpg" (post #582)
+
+
+------
+[WARNING] Could not find the author for "cover5.jpg" (post #583)
+
+
+------
+[WARNING] Could not find the author for "cover6.jpg" (post #584)
+
+
+------
+[WARNING] Could not find the author for "cover7.jpg" (post #585)
+
+
+------
+[WARNING] Could not find the author for "cover8.jpg" (post #586)
+
+
+------
+[WARNING] Could not find the author for "cover5-1.jpg" (post #587)
+
+
+------
+[WARNING] Could not find the author for "bg-scaled.jpg" (post #588)
+
+
+------
+[WARNING] Could not find the author for "logo1.png" (post #589)
+
+
+------
+[WARNING] Could not find the author for "logo2.png" (post #590)
+
+
+------
+[WARNING] Could not find the author for "logo3.png" (post #591)
+
+
+------
+[WARNING] Could not find the author for "logo4.png" (post #592)
+
+
+------
+[WARNING] Could not find the author for "logo5.png" (post #593)
+
+
+------
+[WARNING] Could not find the author for "logo6.png" (post #594)
+
+
+------
+[WARNING] Could not find the author for "blog1.jpg" (post #595)
+
+
+------
+[WARNING] Could not find the author for "kubio-featured-image.jpg" (post #596)
+
+
+------
+[WARNING] Could not find the author for "Sample Page" (post #597)
+
+
+------
+[WARNING] Could not find the author for "Privacy Policy" (post #598)
+
+
+------
+[WARNING] Could not find the author for "Front Page" (post #7)
+
+
+------
+[WARNING] Could not find the author for "Blog" (post #8)
+
+
+------
+[WARNING] Could not find the author for "Home" (post #606)
+
+
+------
+[WARNING] Could not find the author for "" (post #607)
+
+
+------
+[WARNING] Could not find the author for "About" (post #608)
+
+
+------
+[WARNING] Could not find the author for "" (post #609)
+
+
+------
+[WARNING] Could not find the author for "blog2.jpg" (post #610)
+
+
+------
+[WARNING] Could not find the author for "blog3-1.jpg" (post #611)
+
+
+------
+[WARNING] Could not find the author for "alexey-turenkov-unsplash.jpg" (post #612)
+
+
+------
+[WARNING] Could not find the author for "europeana-unsplash.jpg" (post #605)
+
+
+------
+[WARNING] Could not find the author for "jon-tyson-unsplash.jpg" (post #604)
+
+
+------
+[WARNING] Could not find the author for "mcgill-libraryunsplash.jpg" (post #603)
+
+
+------
+[WARNING] Could not find the author for "img1.jpg" (post #599)
+
+
+------
+[WARNING] Could not find the author for "handwriting.png" (post #600)
+
+
+------
+[WARNING] Could not find the author for "book1.png" (post #602)
+
+
+------
+[WARNING] Could not find the author for "bg2-scaled.jpg" (post #601)
+
+
+------
+[WARNING] Could not find the author for "darius-unsplash.jpg" (post #613)
+
+
+------
+[WARNING] Could not find the author for "404" (post #11)
+
+
+------
+[WARNING] Could not find the author for "Archive Product" (post #12)
+
+
+------
+[WARNING] Could not find the author for "Front Page" (post #13)
+
+
+------
+[WARNING] Could not find the author for "Full Width" (post #14)
+
+
+------
+[WARNING] Could not find the author for "Home" (post #15)
+
+
+------
+[WARNING] Could not find the author for "Index" (post #16)
+
+
+------
+[WARNING] Could not find the author for "Page" (post #17)
+
+
+------
+[WARNING] Could not find the author for "Search" (post #18)
+
+
+------
+[WARNING] Could not find the author for "Single Product" (post #19)
+
+
+------
+[WARNING] Could not find the author for "Single Post" (post #20)
+
+
+------
+[WARNING] Could not find the author for "Footer" (post #21)
+
+
+------
+[WARNING] Could not find the author for "Front Header" (post #22)
+
+
+------
+[WARNING] Could not find the author for "Page With Left Sidebar" (post #615)
+
+
+------
+[WARNING] Could not find the author for "Page With Right Sidebar" (post #616)
+
+
+------
+[WARNING] Could not find the author for "Custom Styles" (post #617)
+
+
+------
+[WARNING] Could not find the author for "Contact" (post #618)
+
+
+------
+[WARNING] Could not find the author for "About me" (post #619)
+
+
+------
+[WARNING] Could not find the author for "Lorem ipsum" (post #240)
+
+
+------
+[WARNING] Could not find the author for "Lorem Ipsum" (post #241)
+
+
+------
+[WARNING] Could not find the author for "Lorem Ipsum" (post #242)
+
+
+------
+[WARNING] Could not find the author for "Header" (post #23)
+
+
+------
+[WARNING] Could not find the author for "Sidebar" (post #620)
+
+
+------
+[WARNING] Could not find the author for "Page Sidebar" (post #621)
+
+
+------
+[WARNING] Could not find the author for "Contact form 1" (post #176)
+
+
+------
+[INFO] Starting remapping of featured images
+
+
+------
+[INFO] Remapping featured image ID 206 to new ID 596 for post ID 240
+
+
+------
+[INFO] Remapping featured image ID 206 to new ID 596 for post ID 241
+
+
+------
+[INFO] Remapping featured image ID 206 to new ID 596 for post ID 242
+
